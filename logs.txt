@@ -1,0 +1,3175 @@
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropy0.6466667056083679
+--------------------------------------------------------accuracy is Timestamp: 12_1-21_13 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-21_13 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------
+--------------------------------------------------------Timestamp: 12_1-21_14 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-21_14 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-21_15 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-21_16 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7133333683013916
+--------------------------------------------------------Timestamp: 12_1-21_17 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7133333683013916
+--------------------------------------------------------Timestamp: 12_1-21_18 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7133333683013916
+--------------------------------------------------------Timestamp: 12_1-21_19 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-21_20 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-21_21 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-21_23 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-21_24 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-21_26 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-21_27 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-21_29 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_1-21_31 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-21_33 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-21_35 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.0
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-21_37 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_1-21_37 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_1-21_37 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-21_38 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-21_38 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-21_39 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-21_40 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-21_41 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-21_42 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-21_43 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_1-21_44 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_1-21_45 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-21_46 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-21_48 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_1-21_49 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-21_51 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_1-21_53 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-21_55 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-21_57 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6266666650772095
+--------------------------------------------------------Timestamp: 12_1-21_59 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.1
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-22_1 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6266666650772095
+--------------------------------------------------------Timestamp: 12_1-22_1 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-22_1 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-22_2 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-22_2 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_3 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_4 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-22_5 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-22_6 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_1-22_7 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_1-22_8 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-22_9 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-22_10 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7066667079925537
+--------------------------------------------------------Timestamp: 12_1-22_12 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_1-22_13 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7066667079925537
+--------------------------------------------------------Timestamp: 12_1-22_15 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-22_17 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-22_19 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-22_21 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-22_23 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.2
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-22_25 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6066666841506958
+--------------------------------------------------------Timestamp: 12_1-22_25 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-22_25 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_1-22_26 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_26 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-22_27 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_28 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_29 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_1-22_30 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-22_31 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-22_32 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-22_33 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_34 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-22_36 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6266666650772095
+--------------------------------------------------------Timestamp: 12_1-22_37 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_1-22_39 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_41 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-22_43 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-22_45 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-22_47 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-22_49 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.5666666626930237
+--------------------------------------------------------Timestamp: 12_1-22_49 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6266666650772095
+--------------------------------------------------------Timestamp: 12_1-22_49 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-22_50 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_1-22_50 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7066667079925537
+--------------------------------------------------------Timestamp: 12_1-22_51 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_52 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_1-22_53 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_54 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-22_55 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-22_56 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7066667079925537
+--------------------------------------------------------Timestamp: 12_1-22_57 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-22_58 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6200000047683716
+--------------------------------------------------------Timestamp: 12_1-23_0 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-23_1 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_1-23_3 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-23_5 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-23_7 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-23_9 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_1-23_11 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.4
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-23_13 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6000000238418579
+--------------------------------------------------------Timestamp: 12_1-23_13 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_1-23_13 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6266666650772095
+--------------------------------------------------------Timestamp: 12_1-23_14 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_1-23_14 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_1-23_15 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-23_16 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-23_17 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_1-23_18 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-23_19 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_1-23_20 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7133333683013916
+--------------------------------------------------------Timestamp: 12_1-23_21 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7066667079925537
+--------------------------------------------------------Timestamp: 12_1-23_22 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_1-23_24 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6200000047683716
+--------------------------------------------------------Timestamp: 12_1-23_25 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-23_27 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_1-23_29 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-23_31 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-23_33 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-23_35 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.5
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6000000238418579
+--------------------------------------------------------Timestamp: 12_1-23_37 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.5600000023841858
+--------------------------------------------------------Timestamp: 12_1-23_37 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-23_37 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_1-23_38 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-23_38 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-23_39 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_1-23_40 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_1-23_41 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-23_42 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_1-23_43 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-23_44 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-23_45 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-23_46 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-23_48 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_1-23_49 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_1-23_51 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-23_53 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_1-23_55 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_1-23_57 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_1-23_59 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.6
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_2-0_1 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.59333336353302
+--------------------------------------------------------Timestamp: 12_2-0_1 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-0_1 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_2-0_2 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6200000047683716
+--------------------------------------------------------Timestamp: 12_2-0_2 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_2-0_3 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-0_4 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_2-0_5 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_2-0_6 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6066666841506958
+--------------------------------------------------------Timestamp: 12_2-0_7 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_2-0_8 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7066667079925537
+--------------------------------------------------------Timestamp: 12_2-0_9 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-0_10 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-0_12 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_2-0_13 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_2-0_15 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-0_17 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_2-0_19 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-0_21 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-0_23 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.7
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_2-0_25 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6200000047683716
+--------------------------------------------------------Timestamp: 12_2-0_25 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-0_25 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_2-0_26 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-0_26 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_2-0_27 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_2-0_28 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_2-0_29 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_2-0_30 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_2-0_31 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6200000047683716
+--------------------------------------------------------Timestamp: 12_2-0_32 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-0_33 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_2-0_34 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_2-0_36 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7200000286102295
+--------------------------------------------------------Timestamp: 12_2-0_37 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_2-0_39 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_2-0_41 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7200000286102295
+--------------------------------------------------------Timestamp: 12_2-0_43 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_2-0_44 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_2-0_47 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.8
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_2-0_49 
+gpu_num=1
+num_epochs=10
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.5733333230018616
+--------------------------------------------------------Timestamp: 12_2-0_49 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6200000047683716
+--------------------------------------------------------Timestamp: 12_2-0_49 
+gpu_num=1
+num_epochs=30
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-0_50 
+gpu_num=1
+num_epochs=40
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6133333444595337
+--------------------------------------------------------Timestamp: 12_2-0_50 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_2-0_51 
+gpu_num=1
+num_epochs=60
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_2-0_52 
+gpu_num=1
+num_epochs=70
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_2-0_53 
+gpu_num=1
+num_epochs=80
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_2-0_53 
+gpu_num=1
+num_epochs=90
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-0_55 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_2-0_56 
+gpu_num=1
+num_epochs=110
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_2-0_57 
+gpu_num=1
+num_epochs=120
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7066667079925537
+--------------------------------------------------------Timestamp: 12_2-0_58 
+gpu_num=1
+num_epochs=130
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-1_0 
+gpu_num=1
+num_epochs=140
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-1_1 
+gpu_num=1
+num_epochs=150
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7266666889190674
+--------------------------------------------------------Timestamp: 12_2-1_3 
+gpu_num=1
+num_epochs=160
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7066667079925537
+--------------------------------------------------------Timestamp: 12_2-1_5 
+gpu_num=1
+num_epochs=170
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-1_7 
+gpu_num=1
+num_epochs=180
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-1_8 
+gpu_num=1
+num_epochs=190
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_2-1_11 
+gpu_num=1
+num_epochs=200
+batch_size=32
+lr=0.0001
+dropout=0.9
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+
+cut
+
+
+
+--------------------------------------------------------Timestamp: 12_2-14_1 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=1e-05
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.7266666889190674
+--------------------------------------------------------Timestamp: 12_2-14_2 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=5e-05
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-14_3 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_2-14_5 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0005
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.59333336353302
+--------------------------------------------------------Timestamp: 12_2-14_6 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_2-14_7 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.005
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.5200000405311584
+--------------------------------------------------------Timestamp: 12_2-14_8 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.01
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.2866666615009308
+--------------------------------------------------------Timestamp: 12_2-14_9 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.05
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.12000000476837158
+--------------------------------------------------------Timestamp: 12_2-14_11 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.1
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.10000000149011612
+--------------------------------------------------------Timestamp: 12_2-14_12 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-14_13 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.1
+pre_train=default
+loss_fun=entropyaccuracy is 0.47333335876464844
+--------------------------------------------------------Timestamp: 12_2-14_14 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.2
+pre_train=default
+loss_fun=entropyaccuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_2-14_16 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.3
+pre_train=default
+loss_fun=entropyaccuracy is 0.6133333444595337
+--------------------------------------------------------Timestamp: 12_2-14_17 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.4
+pre_train=default
+loss_fun=entropyaccuracy is 0.5800000429153442
+--------------------------------------------------------Timestamp: 12_2-14_18 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.5
+pre_train=default
+loss_fun=entropyaccuracy is 0.5733333230018616
+--------------------------------------------------------Timestamp: 12_2-14_19 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.6
+pre_train=default
+loss_fun=entropyaccuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_2-14_21 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.7
+pre_train=default
+loss_fun=entropyaccuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_2-14_22 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.8
+pre_train=default
+loss_fun=entropyaccuracy is 0.5
+--------------------------------------------------------Timestamp: 12_2-14_23 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0.9
+pre_train=default
+loss_fun=entropyaccuracy is 0.6933333277702332
+--------------------------------------------------------Timestamp: 12_2-14_24 
+gpu_num=1
+num_epochs=100
+batch_size=2
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropyaccuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_2-14_42 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_out
+--------------------------------------------------------Timestamp: 12_2-14_42 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epoch
+--------------------------------------------------------Timestamp: 12_2-14_42 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Learning_Rate
+--------------------------------------------------------Timestamp: 12_2-14_45 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_out
+--------------------------------------------------------Timestamp: 12_2-14_45 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epoch
+--------------------------------------------------------Timestamp: 12_2-14_45 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Learning_Rate
+--------------------------------------------------------Timestamp: 12_2-14_45 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Regularization
+--------------------------------------------------------Timestamp: 12_2-14_46 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6466667056083679accuracy is 0.6399999856948853accuracy is 0.6266666650772095accuracy is 0.6733333468437195accuracy is 0.6866666674613953accuracy is 0.6600000262260437accuracy is 0.6733333468437195accuracy is 0.6733333468437195accuracy is 0.699999988079071accuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_2-14_58 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epochaccuracy is 0.4466666877269745accuracy is 0.6866666674613953accuracy is 0.6333333253860474accuracy is 0.6399999856948853accuracy is 0.6200000047683716accuracy is 0.6666666865348816accuracy is 0.6600000262260437accuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_2-15_3 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6800000071525574accuracy is 0.6533333659172058accuracy is 0.6533333659172058accuracy is 0.6666666865348816accuracy is 0.6800000071525574accuracy is 0.6466667056083679accuracy is 0.5866667032241821accuracy is 0.6666666865348816accuracy is 0.6533333659172058accuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_2-15_14 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epochaccuracy is 0.5266667008399963accuracy is 0.5866667032241821accuracy is 0.6533333659172058accuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-15_16 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_out
+--------------------------------------------------------Timestamp: 12_2-15_19 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6533333659172058accuracy is 0.6800000071525574accuracy is 0.6866666674613953accuracy is 0.6466667056083679accuracy is 0.6666666865348816accuracy is 0.6800000071525574accuracy is 0.6133333444595337accuracy is 0.6600000262260437accuracy is 0.6733333468437195accuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_2-15_30 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epochaccuracy is 0.4533333480358124accuracy is 0.6066666841506958accuracy is 0.6666666865348816accuracy is 0.6600000262260437accuracy is 0.6933333277702332accuracy is 0.6533333659172058accuracy is 0.699999988079071accuracy is 0.6466667056083679accuracy is 0.6733333468437195accuracy is 0.6600000262260437accuracy is 0.6666666865348816accuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_2-16_5 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6266666650772095accuracy is 0.6800000071525574accuracy is 0.6466667056083679accuracy is 0.6466667056083679accuracy is 0.6266666650772095accuracy is 0.6733333468437195accuracy is 0.6533333659172058accuracy is 0.6733333468437195accuracy is 0.6666666865348816accuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_2-16_16 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epochaccuracy is 0.4533333480358124accuracy is 0.6399999856948853accuracy is 0.6200000047683716accuracy is 0.6600000262260437accuracy is 0.6399999856948853accuracy is 0.6600000262260437accuracy is 0.6933333277702332accuracy is 0.6733333468437195accuracy is 0.6733333468437195accuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_2-16_24 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6800000071525574accuracy is 0.6200000047683716
+--------------------------------------------------------Timestamp: 12_2-16_26 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epochaccuracy is 0.5666666626930237accuracy is 0.6133333444595337accuracy is 0.6466667056083679accuracy is 0.6666666865348816accuracy is 0.6533333659172058accuracy is 0.6266666650772095
+--------------------------------------------------------Timestamp: 12_2-16_30 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6666666865348816accuracy is 0.6333333253860474
+--------------------------------------------------------Timestamp: 12_2-16_33 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6399999856948853accuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_2-16_38 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_out
+--------------------------------------------------------Timestamp: 12_2-16_38 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6666666865348816accuracy is 0.6466667056083679accuracy is 0.6600000262260437accuracy is 0.6266666650772095accuracy is 0.6466667056083679accuracy is 0.6866666674613953accuracy is 0.6866666674613953accuracy is 0.6666666865348816accuracy is 0.6733333468437195accuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_2-16_50 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epochaccuracy is 0.5133333206176758accuracy is 0.59333336353302accuracy is 0.6066666841506958accuracy is 0.6266666650772095accuracy is 0.6933333277702332accuracy is 0.6666666865348816accuracy is 0.6200000047683716accuracy is 0.6600000262260437accuracy is 0.6466667056083679accuracy is 0.6466667056083679accuracy is 0.6733333468437195accuracy is 0.6466667056083679accuracy is 0.6200000047683716
+--------------------------------------------------------Timestamp: 12_2-17_1 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Drop_outaccuracy is 0.6399999856948853accuracy is 0.699999988079071accuracy is 0.6399999856948853accuracy is 0.6533333659172058accuracy is 0.6466667056083679accuracy is 0.6600000262260437accuracy is 0.6600000262260437accuracy is 0.6533333659172058accuracy is 0.6933333277702332accuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_2-17_12 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Num_Epochaccuracy is 0.5accuracy is 0.6399999856948853accuracy is 0.6399999856948853accuracy is 0.6866666674613953accuracy is 0.6933333277702332accuracy is 0.6600000262260437accuracy is 0.6800000071525574accuracy is 0.6733333468437195accuracy is 0.5600000023841858accuracy is 0.6533333659172058accuracy is 0.6666666865348816accuracy is 0.6533333659172058accuracy is 0.6533333659172058accuracy is 0.6399999856948853accuracy is 0.6733333468437195accuracy is 0.6666666865348816accuracy is 0.6800000071525574accuracy is 0.6800000071525574accuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-17_33 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Learning_Rate
+--------------------------------------------------------Timestamp: 12_2-17_34 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Regularizationaccuracy is 0.7066667079925537accuracy is 0.6333333253860474accuracy is 0.6466667056083679accuracy is 0.6800000071525574accuracy is 0.6266666650772095accuracy is 0.6666666865348816accuracy is 0.6333333253860474accuracy is 0.5866667032241821accuracy is 0.6133333444595337accuracy is 0.6000000238418579
+--------------------------------------------------------Timestamp: 12_2-17_45 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Batch_Sizeaccuracy is 0.6533333659172058accuracy is 0.6733333468437195accuracy is 0.6600000262260437accuracy is 0.6333333253860474accuracy is 0.6666666865348816accuracy is 0.6866666674613953accuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_2-17_53 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Loss_function
+--------------------------------------------------------Timestamp: 12_2-17_55 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Learning_Rateaccuracy is 0.6866666674613953accuracy is 0.6399999856948853accuracy is 0.6133333444595337accuracy is 0.7066667079925537accuracy is 0.6466667056083679accuracy is 0.54666668176651accuracy is 0.59333336353302accuracy is 0.47333335876464844accuracy is 0.40666666626930237accuracy is 0.12000000476837158accuracy is 0.1599999964237213
+--------------------------------------------------------Timestamp: 12_2-18_8 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Loss_function
+--------------------------------------------------------Timestamp: 12_2-18_9 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=default
+loss_fun=entropy
+target=Loss_Functionaccuracy is 0.6733333468437195accuracy is 0.6399999856948853
+--------------------------------------------------------Timestamp: 12_2-18_40 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Initialization
+--------------------------------------------------------Timestamp: 12_2-18_40 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Initialization
+--------------------------------------------------------Timestamp: 12_2-18_41 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Nomalization
+--------------------------------------------------------Timestamp: 12_2-18_41 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Initializationaccuracy is 0.6466667056083679accuracy is 0.9466667175292969
+--------------------------------------------------------Timestamp: 12_2-18_43 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Nomalizationaccuracy is 0.6800000071525574accuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_2-18_54 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=CNN scratch
+loss_fun=entropy
+norm=group norm
+target=
+--------------------------------------------------------Timestamp: 12_2-18_55 
+gpu_num=1
+num_epochs=100
+batch_size=64
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Nomalizationaccuracy is 0.6533333659172058accuracy is 0.6000000238418579
+--------------------------------------------------------Timestamp: 12_3-19_4 
+gpu_num=1
+num_epochs=100
+batch_size=8
+lr=0.0001
+dropout=0.3
+weight_decay=0
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Nomalizationaccuracy is 0.6666666865348816accuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_3-19_12 
+gpu_num=1
+num_epochs=100
+batch_size=16
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Nomalizationaccuracy is 0.6800000071525574accuracy is 0.6133333444595337
+--------------------------------------------------------Timestamp: 12_3-19_17 
+gpu_num=1
+num_epochs=100
+batch_size=16
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6533333659172058
+--------------------------------------------------------Timestamp: 12_3-20_0 
+gpu_num=1
+num_epochs=100
+batch_size=16
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_3-20_4 
+gpu_num=1
+num_epochs=100
+batch_size=16
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_3-20_15 
+gpu_num=1
+num_epochs=100
+batch_size=16
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6600000262260437
+--------------------------------------------------------Timestamp: 12_3-20_18 
+gpu_num=1
+num_epochs=100
+batch_size=16
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.699999988079071
+--------------------------------------------------------Timestamp: 12_3-20_20 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6733333468437195
+--------------------------------------------------------Timestamp: 12_3-21_35 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-21_37 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-21_37 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-21_38 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-21_39 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-21_40 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-21_40 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_3-22_4 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-22_7 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6200000047683716accuracy is 0.6733333468437195accuracy is 0.6866666674613953
+--------------------------------------------------------Timestamp: 12_3-22_23 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6533333659172058accuracy is 0.6533333659172058accuracy is 0.6800000071525574
+--------------------------------------------------------Timestamp: 12_3-22_29 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-22_29 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-22_29 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-22_30 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-22_31 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6733333468437195accuracy is 0.6600000262260437accuracy is 0.7200000286102295accuracy is 0.6733333468437195accuracy is 0.6466667056083679
+--------------------------------------------------------Timestamp: 12_3-22_46 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.7400000095367432
+--------------------------------------------------------Timestamp: 12_3-22_48 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-22_48 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.7333333492279053
+--------------------------------------------------------Timestamp: 12_3-23_3 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-23_3 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-23_4 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-23_17 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-23_18 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-23_20 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-23_24 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_3-23_24 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_7 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_7 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_9 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_14 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Sizeaccuracy is 0.6666666865348816
+--------------------------------------------------------Timestamp: 12_7-16_48 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_48 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_49 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_50 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_51 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Kernel_Size
+--------------------------------------------------------Timestamp: 12_7-16_54 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compression
+--------------------------------------------------------Timestamp: 12_7-16_57 
+gpu_num=1
+num_epochs=3
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=
+--------------------------------------------------------Timestamp: 12_7-16_58 
+gpu_num=1
+num_epochs=3
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=accuracy is 0.24666666984558105
+--------------------------------------------------------Timestamp: 12_7-17_0 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compression
+--------------------------------------------------------Timestamp: 12_7-17_2 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compression
+--------------------------------------------------------Timestamp: 12_7-17_5 
+gpu_num=1
+num_epochs=5
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=accuracy is 0.24000000953674316
+--------------------------------------------------------Timestamp: 12_7-17_5 
+gpu_num=1
+num_epochs=20
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=accuracy is 0.5200000405311584
+--------------------------------------------------------Timestamp: 12_7-17_6 
+gpu_num=1
+num_epochs=50
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=accuracy is 0.3799999952316284
+--------------------------------------------------------Timestamp: 12_7-17_7 
+gpu_num=1
+num_epochs=99
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=accuracy is 0.4399999976158142
+--------------------------------------------------------Timestamp: 12_7-17_8 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=
+--------------------------------------------------------Timestamp: 12_7-17_8 
+gpu_num=1
+num_epochs=101
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=accuracy is 0.3400000035762787
+--------------------------------------------------------Timestamp: 12_7-17_10 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=accuracy is 0.46666666865348816
+--------------------------------------------------------Timestamp: 12_7-17_13 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compression
+--------------------------------------------------------Timestamp: 12_7-18_35 
+gpu_num=1
+num_epochs=100
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compression
+--------------------------------------------------------Timestamp: 12_7-18_37 
+gpu_num=1
+num_epochs=99
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compression
+--------------------------------------------------------Timestamp: 12_7-18_41 
+gpu_num=1
+num_epochs=99
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compressionaccuracy is 0.29333335161209106accuracy is 0.3466666638851166accuracy is 0.4266666769981384accuracy is 0.41333335638046265accuracy is 0.3466666638851166accuracy is 0.3466666638851166accuracy is 0.5133333206176758accuracy is 0.3733333349227905accuracy is 0.3466666638851166
+--------------------------------------------------------Timestamp: 12_7-19_3 
+gpu_num=1
+num_epochs=99
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compressionaccuracy is 0.3799999952316284accuracy is 0.3799999952316284accuracy is 0.30000001192092896accuracy is 0.18000000715255737accuracy is 0.5133333206176758accuracy is 0.3266666829586029accuracy is 0.31333333253860474accuracy is 0.36000001430511475accuracy is 0.3866666853427887
+--------------------------------------------------------Timestamp: 12_7-19_17 
+gpu_num=1
+num_epochs=99
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compressionaccuracy is 0.2199999988079071accuracy is 0.3266666829586029accuracy is 0.24000000953674316accuracy is 0.35333335399627686accuracy is 0.3866666853427887accuracy is 0.3333333432674408accuracy is 0.3199999928474426accuracy is 0.3933333456516266accuracy is 0.24666666984558105
+--------------------------------------------------------Timestamp: 12_7-19_32 
+gpu_num=1
+num_epochs=99
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compression
+--------------------------------------------------------Timestamp: 12_7-19_33 
+gpu_num=1
+num_epochs=99
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compressionaccuracy is 0.6600000262260437accuracy is 0.699999988079071accuracy is 0.7200000286102295accuracy is 0.6933333277702332accuracy is 0.7333333492279053accuracy is 0.7133333683013916accuracy is 0.6933333277702332accuracy is 0.6600000262260437accuracy is 0.7200000286102295
+--------------------------------------------------------Timestamp: 12_7-19_52 
+gpu_num=1
+num_epochs=99
+batch_size=32
+lr=0.0001
+dropout=0.3
+compression=0.3
+weight_decay=0
+kernel_size=3
+pre_train=CNN scratch
+loss_fun=entropy
+norm=batch norm
+target=Compressionaccuracy is 0.3333333432674408accuracy is 0.30000001192092896accuracy is 0.4933333396911621accuracy is 0.35333335399627686accuracy is 0.4533333480358124accuracy is 0.3333333432674408accuracy is 0.4533333480358124accuracy is 0.5266667008399963accuracy is 0.5066666603088379
